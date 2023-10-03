@@ -1,6 +1,5 @@
 # txt2md
 ## Why?
-Here's your corrected text:
 
 I created this small script to enable me to handwrite my notes on my E-Notebook (Supernote A5 X) and then have those notes accessible in my Obsidian vault. 
 If you wish to use it, please feel free to do so. If you want to make improvements, please go ahead. If you have any comments, please don't hesitate to let us know.
