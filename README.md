@@ -7,11 +7,11 @@ If you wish to use it, please feel free to do so. If you want to make improvemen
 ## Usage Instructions:
 
 <ol>
-    <li><strong>Download the Script:</strong> First, download the Python script file.</li>
+    <li><strong>Download the Script:</strong> First, download the Python script file.<br> I recommend you to have the file in its own folder since it will create a config.ini file.</li>
     <li><strong>Run the Script:</strong> Double-click the script file to run it. It will open a console window, which will guide you through the process.</li>
-    <li><strong>Enter Folders:</strong> When prompted, enter the paths to the source folder (where your .txt files are located) and the destination folder (where the converted .md files will be moved to). You can type or paste the folder paths.</li>
-    <li><strong>Repeat or Save Configuration (Optional):</strong> If you plan to use the same folders repeatedly, you can choose to save the configuration. This way, you won't have to enter the folder paths each time you run the script. The script will create a config.ini file in the same directory to store these paths.</li>
-    <li><strong>Execution:</strong> The script will then go through the source folder, find all .txt files, convert them to .md files, and move them to the destination folder. You will see messages indicating the progress of the process.</li>
+    <li><strong>Enter Folders:</strong> When prompted, enter the paths to the source folder (where your .txt files are located) and the destination folder (where the converted .md files will be moved to). You can type or paste the folder paths.<br> The script is made so you
+        don't have to set the paths every time you run the program, the script will create a config.ini file in the same directory to store these paths.</li>
+    <li><strong>Execution:</strong> The script will then go through the source folder, find all .txt files, convert them to .md files, and move them to the destination folder.</li>
     <li><strong>Completion:</strong> Once the process is completed, the console window will display a message indicating that the process is finished.</li>
 </ol>
 
