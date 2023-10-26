@@ -27,7 +27,7 @@ If you wish to use it, please feel free to do so. If you want to make improvemen
         <ul>
             <li>If the file already exists on destination folder, the content will be appended on destination file.</li>
         </ul>
-    <li>After all the files are in the destination folder it will delete the .docx and .txt files from soucer folder to avoid repeated contetn.</li>
+    <li>After all the files are in the destination folder it will delete the .docx and .txt files from soucer folder to avoid repeated content.</li>
     <li>It creates a log file with all the process that was done.</li>
 </ul>
 
